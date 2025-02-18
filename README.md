@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis (EDA) - Task 1
+# 📊 Exploratory Data Analysis (EDA) - Task 2
 
 ## 🚀 Project Overview
 This project is part of my *internship at Main Flow Services and Technologies Pvt. Ltd., focusing on **Exploratory Data Analysis (EDA)* using Python. The objective is to analyze a given dataset, clean the data, visualize key trends, and extract meaningful insights.
